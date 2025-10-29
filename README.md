@@ -12,4 +12,4 @@
 - call of duty
 
 #🔗 link utile
-![visita il sito di IGN italia](https://it.ign.com/)
+[visita il sito di IGN italia](https://it.ign.com/)
